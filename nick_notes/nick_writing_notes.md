@@ -43,6 +43,7 @@
 	- this can be predicted via a plant centric approach
 	- the saved resources can be used to support other process
 	- consideration of this reconciled theory can improve ESMs
+
 ### step 2
 Atmospheric carbon dioxide (CO2) concentrations have risen steadily over the past 
 century as a result of anthropogenic fossil fuel emissions and land use change.
@@ -89,3 +90,6 @@ in order to accurately project changes in future terrestrial carbon and nutrient
 Recent developments have produced reliable formulas to simulate optimal downregulation
 of photosynthetic capacity under elevated CO2 that can be introduced to ESMs without
 increasing parametric uncertainty.
+
+### step 3
+SKIPPING AND INTEGRATING INTO EXERCISE 3.2
