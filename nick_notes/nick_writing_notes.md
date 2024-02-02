@@ -93,3 +93,49 @@ increasing parametric uncertainty.
 
 ### step 3
 SKIPPING AND INTEGRATING INTO EXERCISE 3.2
+
+## exercise 3.1
+- simple
+	- the idea itself is very complicated, but the results were made simple
+		- many species with similar root syndromes have different AG syndromes
+		- good job with abstract
+		- PCAs are generally a good "simple" way to explain things
+- unexpected
+	- AG syndrome doesn't equal BG syndrome is very unexpected!
+- concrete
+	- here's where things break down a bit
+	- so abstract an idea that it is not super concrete
+- credible
+	- huge new dataset with sophisticated analyses = credible
+	- but suffers a bit from concreteness
+- emotional
+	- doesn't really hit this
+	- although examples help with this (I can relate to these!)
+- stories
+	- similar story throughout, just told a different way
+	- multiple packages would have been helpful I think
+
+## exercise 3.2 (evan critique)
+- simple
+	- it's easier to understand, but not simple
+		- not sure how to say that, but there is just a lot going on (technical words and such)
+		- starting with a simpler schema (maybe more in the beginning) may have helped
+- unexpected
+	- the expectation for the measured traits was not set up
+	- however, the "we don't know how allelopathic invasion" really works was set up well!
+- concrete
+	- this was great I think
+	- the points were solid and the results were direct
+- credible
+	- yes, absolutely, but this may have pulled from the simplicity a bit
+	- I think more "simple" sentences could be added in
+- emotional
+	- not much emotion
+	- some broader context may help here
+		- how widespread are allelopathic invaders?
+		- what is their broader impact?
+		- how does this fit into a larger context?
+- stories
+	- the story was clear!
+	- there was a good flow
+	- adding to the "simple" and "emotional" element would help with this
