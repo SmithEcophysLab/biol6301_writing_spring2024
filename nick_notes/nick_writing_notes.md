@@ -139,3 +139,69 @@ SKIPPING AND INTEGRATING INTO EXERCISE 3.2
 	- the story was clear!
 	- there was a good flow
 	- adding to the "simple" and "emotional" element would help with this
+
+## exercise 4.1
+- what structure is carmona using
+
+## exercise 4.2
+- **Opening**
+Atmospheric carbon dioxide (CO2) concentrations have risen steadily over the past 
+century as a result of anthropogenic fossil fuel emissions and land use change.
+Annual mean values of atmospheric CO2 recorded by the Mauna Loa Observatory 
+have increased from 316.0 µmol mol-1 in 1960 to 418.5 µmol mol-1 in 2022. 
+Terrestrial photosynthesis represents the largest flux of CO2 between the atmosphere
+and the Earth's surface. This flux drives the land carbon sink, which
+offsets roughly 30% of anthropogenic emissions.
+However, state-of-the-art Earth System Models (ESMs) do not agree on how this sink will vary under
+future global change, with some models predicting an increase in the strength of the sink
+and others predicting a decrease, with some even suggesting that the land surface will
+become a source for CO2 by the end of the century.
+Much of the discrepancy in model projections is a result of their representation of photosynthesis.
+Atmospheric CO2 is the substrate for photosynthesis and plants typically respond
+by increasing photosynthesis in response to an increase in atmospheric CO2 over short
+and long time scales. However, plants are known to acclimate their photosynthetic traits in
+response to changes in CO2, a process that is generally omitted from ESMs. 
+For instance, experimental data consistently indicate that leaf photosynthetic capacity 
+of C3 plants decreases with increasing atmospheric CO2, despite consistently
+displaying faster rates of carbon assimilation. 
+- **Challenge**
+There are multiple competing hypotheses to explain the mechanisms underlying this response. 
+Two of the most widely cited are (1) CO2-induced nutrient limitation of photosynthetic 
+capacity and (2) optimal downregulation of photosynthetic capacity under elevated CO2.
+The nutrient limitation hypothesis suggests that the downregulation is the product of nutrient depletion
+in soils, which is commonly observed in elevated CO2 experiments. The reasoning follows that,
+because the enzymes that underlie photosynthetic capacity require relatively large amounts
+of nutrients to build and maintain, the nutrient depletion in the soil directly limits photosynthetic
+capacity. The optimal downregulation hypothesis suggests that plants reduce investment in photosynthetic
+enzymes (namely, Ribulose-1,5-bisphosphate carbocylase/oxygenase or RuBisCO), as maintenance
+of high photosynthetic rates can be achieved with less RuBisCO investment under elevated CO2. 
+While not mutually exclusive, these two hypotheses imply differential effects of 
+ongoing and expected future increases in atmospheric CO2 on ecosystem carbon and 
+nutrient cycling and, thus, feedbacks to climate.
+Here, we resolve these competing hypotheses. 
+- **Action**
+We find that, while nutrient limitation does often limit the stimulation of 
+biomass productivity under elevated CO2, the reduction in photosynthetic capacity can predominantly 
+be explained by optimal biochemical downregulation.
+Specifically, the maximum Rubisco carboxylation capacity (Vcmax) decreases under elevated CO2,
+but happens in a way that still allows for increases in photosynthetic carbon assimilation.
+This is because less Rubisco is needed to maximize the utilization of available light under elevated CO2.
+With more substrate for assimilation (i.e., CO2) inside the leaf, Rubisco carboxylation is increased
+and oxygenation is decreased. We show that this allows for similar rates of photosynthesis as compared
+to a hypothetical situation where photosynthetic capacity is not downregulated.
+The support for 
+optimal downregulation indicates that photosynthetic nutrient use efficiency increases 
+under elevated atmospheric CO2 and, thus, reduces the rate and magnitude of 
+progressive nutrient limitation to plant biomass productivity.
+- **Resolution**
+Optimal downregulation of photosynthetic capacity under elevated CO2 is not 
+currently, but should be included in the next generation of terrestrial biosphere models 
+in order to accurately project changes in future terrestrial carbon and nutrient cycling.
+Recent developments have produced reliable formulas to simulate optimal downregulation
+of photosynthetic capacity under elevated CO2 that can be introduced to ESMs without
+increasing parametric uncertainty. We expect that the inclusion of this response will not
+alleviate nutrient limitation of biomass productivity under elevated CO2, which will continue
+to constrain the land carbon sink. However, the inclusion of photosynthetic biochemical acclimation
+elevated CO2 will lessen per-leaf-area demand for soil nutrients. This will increase the nutrient
+pool available in models, lessening nutrient limitations to biomass growth and the land
+carbon sink.
