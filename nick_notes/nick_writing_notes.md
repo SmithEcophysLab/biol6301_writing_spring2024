@@ -205,3 +205,28 @@ to constrain the land carbon sink. However, the inclusion of photosynthetic bioc
 elevated CO2 will lessen per-leaf-area demand for soil nutrients. This will increase the nutrient
 pool available in models, lessening nutrient limitations to biomass growth and the land
 carbon sink.
+
+## exercise 5.1
+- did they do a good job of identifying the larger issue?
+	- no, it is more or less unclear what the problem is (equivalency of above-below ground traits maybe?)
+- style of opening?
+	- no direction opening
+- pawn push or queen launch
+	- queen launch I think?
+- narrow or broad audience?
+	- narrow (too narrow?)
+
+## exercise 5.3
+Global temperatures are increasing as a result of increasing CO2 in the atmosphere.
+Efflux of CO2 from soils as a result of soil respiration is XX gC per year, XX times
+greater than CO2 emissions from anthropogenic activities. Soil respiration is an
+enzyme driven process, meaning that it tends to increase exponentially with temperature.
+Thus, increasing temperatures may increase respiratory CO2 fluxes, thus creating a positive
+feedback to climate change. However, it is unclear what the temperature response of soil respiration is.
+
+
+Many cancer patients are resistant to chemotherapy. Some resistance is associated with GGT,
+which can block the apoptotic cascade in tumor cells. We examine whether pre-therapy inhibition of GGT
+can increase chemotherapy effectiveness by reducing tumor cell resistance.
+
+
