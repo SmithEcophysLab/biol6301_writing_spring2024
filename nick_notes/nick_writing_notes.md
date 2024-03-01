@@ -229,4 +229,31 @@ Many cancer patients are resistant to chemotherapy. Some resistance is associate
 which can block the apoptotic cascade in tumor cells. We examine whether pre-therapy inhibition of GGT
 can increase chemotherapy effectiveness by reducing tumor cell resistance.
 
+## exercise 5.2/6.2
+### zinny
+- definitely a strong pawn push
+	- may be better to get to the point quicker
+	- audience must be quite general given the background
+	- a queen launch would get right to c4
+- the knowledge gap is not explicitly stated
+- the funnel work, but stays too broad
+	- does not get down to the heart of the issue in the paper
+
+### dan
+- queen launch!
+	- knowledge gap is explicit
+- audience are specialists and the writing does well to engage them
+- the introduction jumps around a lot >> no clear funnel structure
+	- paragraphs may help
+	- why warming?
+	- how do soils and air warm differently?
+	- challenge is good, but it isn't clear how exactly you got there
+
+### rafael
+- too many opening ideas >> break down one by one
+- nice 2nd paragraph
+- pawn push
+- funnel doesn't get narrow enough
+- extent of buffelgrass missing
+- knowledge gap not explicitly stated
 

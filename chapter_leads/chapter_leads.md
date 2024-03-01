@@ -10,8 +10,8 @@
 - Ch. 7: Monika
 - Ch. 8: Snehanjana
 - Ch. 9: Rafael
-- Ch. 10: Hannah
-- Ch. 11: Alissar
-- Ch. 12: Eve
-- Ch. 13: Isa
-- Ch. 14: Monika
+- Ch. 10: Alissar
+- Ch. 11: Eve
+- Ch. 12: Isa
+- Ch. 13: Monika
+- Ch. 14: 
