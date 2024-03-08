@@ -274,7 +274,9 @@ photosynthetic capacity, specifically Vcmax, to elevated CO2.
 To do this, we use past data and theory to reconcile competing hypotheses to explain 
 the downregulation of Vcmax under elevated CO2.
 We focus on the two dominant hypotheses: progressive nitrogen limitation and optimal
-downregulation. We start by reviewing the hypotheses and their underlying mechanisms.
+downregulation. 
+We posit that these two hypotheses are not mutually exclusive.
+We start by reviewing the hypotheses and their underlying mechanisms.
 We then use this review to align the two hypotheses and 
 discuss the relevance of this realignment for the development of reliable and robust Earth system models.
 
