@@ -257,3 +257,26 @@ can increase chemotherapy effectiveness by reducing tumor cell resistance.
 - extent of buffelgrass missing
 - knowledge gap not explicitly stated
 
+## exercise 7.1
+- no question or hypothesis!
+- "to learn x, we did Y" >> only had the "we did Y" section!
+- knowledge gap not defined
+- the broader implications are not clear
+- only thing that is inviting/intriguing is the size of the dataset
+- "why are you wasting my time with this" >> I'm not sure from the challenge statement!
+- maybe a word-count limitation as some of the challenge aspects are buried in other sections
+- "to assess main trends of trait variation" is SUPER vague
+
+## exercise 7.2
+- my challenge statement
+This perspective enhances our understanding the mechanisms underlying the acclimation of
+photosynthetic capacity, specifically Vcmax, to elevated CO2.
+To do this, we use past data and theory to reconcile competing hypotheses to explain 
+the downregulation of Vcmax under elevated CO2.
+We focus on the two dominant hypotheses: progressive nitrogen limitation and optimal
+downregulation. We start by reviewing the hypotheses and their underlying mechanisms.
+We then use this review to align the two hypotheses and 
+discuss the relevance of this realignment for the development of reliable and robust Earth system models.
+
+
+
