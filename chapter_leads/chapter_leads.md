@@ -8,10 +8,10 @@
 - Ch. 5: Zinny
 - Ch. 6: Kelly
 - Ch. 7: Monika
-- Ch. 8: Snehanjana
+- Ch. 8: Nick
 - Ch. 9: Rafael
 - Ch. 10: Alissar
 - Ch. 11: Eve
 - Ch. 12: Isa
 - Ch. 13: Monika
-- Ch. 14: 
+- Ch. 14: Snehanjana
