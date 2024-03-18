@@ -8,10 +8,10 @@
 - Ch. 5: Zinny
 - Ch. 6: Kelly
 - Ch. 7: Monika
-- Ch. 8: Nick
-- Ch. 9: Rafael
-- Ch. 10: Alissar
-- Ch. 11: Eve
-- Ch. 12: Isa
-- Ch. 13: Monika
-- Ch. 14: Snehanjana
+- Ch. 8: Nick (mar 18)
+- Ch. 9: Rafael (mar 25)
+- Ch. 10: Alissar (apr 5)
+- Ch. 11: Eve (apr 8)
+- Ch. 12: Isa (apr 15)
+- Ch. 13: Monika (apr 22)
+- Ch. 14: Snehanjana (apr 29)
