@@ -280,5 +280,21 @@ We start by reviewing the hypotheses and their underlying mechanisms.
 We then use this review to align the two hypotheses and 
 discuss the relevance of this realignment for the development of reliable and robust Earth system models.
 
+## exercise 8.1
+### are all the data they presented necessary for the story?
+- yes and with good LD structure
+- story structure in the results/discussion presented the main result first and
+then brok this down with the more ancillary results
+	- similar to a "best poster" approach
+	- this is not always easy to do though I don't think
+	- integrated outcome + mechanisms
+	- some ancillary results maybe not necessary??
+- did not bounce back and forth between figures
+	- very linear is easy for the reader
+- good LD example, but maybe only possible with Nature-style integration of Discussion
+and results
+	- allowed nuances of data to shine through (be apparent)
+- lines on non-significant trends is a bit annoying
+
 
 
