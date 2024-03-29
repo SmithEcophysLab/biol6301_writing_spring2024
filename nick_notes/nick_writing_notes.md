@@ -296,5 +296,16 @@ and results
 	- allowed nuances of data to shine through (be apparent)
 - lines on non-significant trends is a bit annoying
 
+## exercise 9.1
+- sum up the important points?
+	- yes, very clear list as separate sentences
+- put results in relation to questions?
+	- hard to say given that the questions were not clear
+	- issue with challenge rather than resolution
+- larger context
+	- not really, but this was also not introduced
+**end with a call for future work >> okay, but not strong**
+
+
 
 
