@@ -307,5 +307,22 @@ and results
 **end with a call for future work >> okay, but not strong**
 
 
+## exercise 10.1
+There are 9 subarcs to the full paper. I was able to identify these based on the topic
+sentence of a given paragraph that starts a new arc. This was identified in combination
+with the last sentence before this topic sentence, which in some cases provided
+a clear end to the previous arc (but not always the case). Takeaway from this is that the
+ending of the arc may be as important as the beginning. 
+- Arc themes
+	1. Plants have trait syndromes
+	2. Root syndromes may not correlate with aboveground syndromes
+	3. Analyzed big datasets
+	4. Characterizing root trait space reveals different syndromes for roots vs aG
+	5. Trait syndromes are not random
+	6. Exploration of trait syndromes in subsets of the data
+	7. Not a lot of redundancy within areas
+	8. Scaling up to communities/biomass
+	9. Summary of main results
+
 
 
