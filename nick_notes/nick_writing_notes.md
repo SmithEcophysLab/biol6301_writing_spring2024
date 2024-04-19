@@ -324,5 +324,19 @@ ending of the arc may be as important as the beginning.
 	8. Scaling up to communities/biomass
 	9. Summary of main results
 
+## exercise 11.3 (rewrite of 11.5 and 11.2)
+11.5: Fossil evidence indicates that Great Plains mammoths did not migrate between northern 
+Colorado and the southern High Plains. Specifically, fossil strontium isotope ratios
+differ between excavation sites at the two areas. The dissimilar ratios indicates that
+there was little migration between the two populations despite there being only 600 km of separation
+between them.
+
+11.2: Air travel produces contrails and contrail-induced cirrus clouds may that contribute
+to variations in diurnal temperature ranges. The three-day grounding period
+of 11-14 September 2011 provided an opportunity to examine the strength of this contribution.
+It was found that the absence of contrails did not influence the DTR during this period.
+This is further evidence that the primary drivers of DTR are lower altitude clouds, winds, and humidity.
+
+
 
 
